@@ -43,4 +43,4 @@ This project analyzes buying behavior of customers through the aid of **K-Means 
 ## 🔧 How to Use the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AYUSH0613/Customer-Segmentation-Analysis.git
+   https://github.com/AYUSH0613/Customer-Segmentation-Analysis.git
